@@ -1,6 +1,6 @@
 
 package com.tiendavirtual.entidades;
 
-public class Aseo {
+public class Categorias {
     
 }
